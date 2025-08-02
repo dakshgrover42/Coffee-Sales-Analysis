@@ -48,5 +48,4 @@ This analysis demonstrates how combining SQL queries with Power BI visualization
 👤 **Author**
 Anaranya Chakraborty | Roll No: 2022UGPI042 | Dept. of Production & Industrial Engineering, NIT Jamshedpur
 
-🙏 **Acknowledgements**
-Thank you to store managers and data teams for providing transaction data and feedback on dashboard design.
+
